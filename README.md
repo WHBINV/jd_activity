@@ -3,6 +3,8 @@
 
 1. 星官推送活动
 
+脚本在xingguantui文件中脚本
+
 第一步：登录https://m.jd.com
 
 第二步：浏览器打开活动地址：https://prodev.m.jd.com/mall/active/3gSzKSnvrrhYushciUpzHcDnkYE3/index.html
